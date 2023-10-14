@@ -1,6 +1,7 @@
 # Sorteia uma palavra para jogar forca
 # Arquivo anexo
-# tESTE
+# Outro exemplo
+# Com duas linhas
 
 import random
 

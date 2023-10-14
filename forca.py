@@ -1,5 +1,6 @@
 # Jogo da Forca -- adaptado de https://youtu.be/_A_2aTFHzJ0?si=N2XN-35MLTjvajMo
-# Arquivo a ser comitado
+#Novo teste
+#Um teste novo
 from palavraforca import palavra
 
 letras_usuario = []
