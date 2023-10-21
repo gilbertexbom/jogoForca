@@ -1,12 +1,12 @@
-# Jogo da Forca -- adaptado de https://youtu.be/_A_2aTFHzJ0?si=N2XN-35MLTjvajMo
-#Novo teste
-#Um teste novo
+# Jogo da Forca ** adaptado de https://youtu.be/_A_2aTFHzJ0?si=N2XN-35MLTjvajMo
 from palavraforca import palavra
 
 letras_usuario = []
 chances = 4
 ganhou = False
 
+# Apresentação
+print('\n\t\t\t -- Jogo da Forca - Frutas, Legumes ou Insetos --\n\n')
 while True:
     for letra in palavra:
         if letra.lower() in letras_usuario:

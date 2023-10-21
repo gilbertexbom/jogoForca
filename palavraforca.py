@@ -1,10 +1,6 @@
 # Sorteia uma palavra para jogar forca
-# Arquivo anexo
-# Outro exemplo
-# Com duas linhas
-
 import random
 
-palavra = random.choice(["Batata", "Banana", "Tomate"])
+palavra = random.choice(["Barata", "Batata", "Banana", "Tomate", "Mosquito", "Tangerina"])
 
 # print(palavra) Teste
